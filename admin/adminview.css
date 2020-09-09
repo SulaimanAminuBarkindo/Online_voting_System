@@ -1,0 +1,57 @@
+	.csd{
+		margin-right:532;
+		border-right:1px solid white;
+		padding-right:3;
+	}
+	.id-style{
+		margin-left:20;
+		font-size:20;
+		border-left:1px solid white;
+		padding-left:3;
+	}
+	.logout-bottom{
+		height:25;
+	}
+
+	.logout-style{
+		float:right;
+		font-size:20;
+		
+		padding-left:4;
+		color:white;
+
+	}
+h1{
+	background-color:darkblue;
+	color:white;
+	font-family:cambria;
+	margin:0;
+}
+body{
+	background-color:1E90FF;
+}
+		p{
+			background-color:;
+			color:darkblue;
+			font-family:cambria;
+			font-size:23;
+			font-type:bold;
+			line-height:3;
+		
+			
+			
+		}
+		
+			.tr1{
+				background-color:darkblue;
+				color:white;
+				
+			}
+			.c-table{
+				margin-top:100;
+				
+			}
+			table{
+			
+			}
+			
